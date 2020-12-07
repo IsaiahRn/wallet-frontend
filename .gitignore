@@ -23,8 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 .eslintcache
-.logo.svg
-reportWebVitals.js
-setupTests.js
-App.test.js
 .gitignore
